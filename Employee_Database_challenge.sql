@@ -259,3 +259,26 @@ FROM unique_titles
 group by title
 ORDER BY count DESC;
 
+--DELIVERABLE 2
+SELECT DISTINCT emp_no, 
+	from_date, 
+	to_date, 
+	title
+INTO mentorship_eligibilty
+FROM titles
+WHERE to_date = ('9999-01-01');
+
+
+SELECT em.emp_no,
+    em.first_name,
+    em.last_name,
+	em.birth_date,
+	me.from_date, 
+	me.to_date, 
+	me.title
+INTO mentors
+FROM employees as em
+RIGHT JOIN mentorship_eligibilty as me
+ON em.emp_no = me.emp_no
+WHERE (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
+ORDER BY emp_no
