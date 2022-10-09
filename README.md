@@ -4,19 +4,19 @@ The Pewlett-Hackard analysis informs management about the upcoming silver tsunam
 ## Results
 This analysis lists the employees at Pewlett-Hackard are eligible for retirement soon. 
 
-The list of employees includes their employee ID and title.
+* The list of employees includes their employee ID and title.
 
 ![alt text](https://github.com/Betsy-Kalkwarf/Pewlett-Hackard-Analysis/blob/main/images/Retiring%20employees.png)
 
-The list has over 72,000 employees.
+* The list has over 72,000 employees.
  
 ![alt text](https://github.com/Betsy-Kalkwarf/Pewlett-Hackard-Analysis/blob/main/images/end%20of%20list.png)
 
-The analysis counts the retirees per title.
+* The analysis counts the retirees per title.
 
 ![alt text](https://github.com/Betsy-Kalkwarf/Pewlett-Hackard-Analysis/blob/main/images/retiring%20titles.png)
 
-Over 1500 employees are eligible for mentorship
+* Over 1500 employees are eligible for mentorship
 
 ![alt text](https://github.com/Betsy-Kalkwarf/Pewlett-Hackard-Analysis/blob/main/images/mentorship.png)
 
