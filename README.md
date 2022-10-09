@@ -24,6 +24,8 @@ This analysis lists the employees at Pewlett-Hackard are eligible for retirement
 ## Summary
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 72,458
+
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are a lot of retirement-ready employees per each employee eligible for mentorship. There are only 2 retirement-ready managers.
 
